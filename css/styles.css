@@ -378,7 +378,7 @@ p {
 
 }
 
-.image-container:hover .overley-text {
+.portfolio-card:hover .overley-text {
     transform: translateY(0);
 }
 
